@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Init creates a git repository.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: We have to put the files from the repository in order to tract and to begin tracking.
+
+
+
