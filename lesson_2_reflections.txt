@@ -4,7 +4,10 @@ Init creates a git repository.
 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-Ans: We have to put the files from the repository in order to tract and to begin tracking.
+Ans: Staging area is the space between working directory and git repository. It contains the
+copy of recent commit until we add changes to it.
+Having staging area gives us more control in adding, deleting and modifying the 
+files.  
 
 
 
