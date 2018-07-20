@@ -9,5 +9,8 @@ copy of recent commit until we add changes to it.
 Having staging area gives us more control in adding, deleting and modifying the 
 files.  
 
+How can you use the staging area to make sure you have one commit per logical change?
+Ans: Whatever changes made to the working directory, we need to add staging area and then commit.
+This allows to re-check which files are changed and commit only the relevant changes.
 
 
